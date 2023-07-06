@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+#!/bin/bash
+=======
+#/!/bin/bash
+>>>>>>> b3472cce9ea1d8d85b19686445247ebb3f8bad75
+cp -n -v *.html ..
