@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+su betty
+=======
+su 0-iam_betty
+>>>>>>> fec27a48a1025ec9e2f80eecc5a0ae91819fb75b
