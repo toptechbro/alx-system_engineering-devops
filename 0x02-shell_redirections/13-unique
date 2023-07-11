@@ -1,2 +1,2 @@
 #!/bin//bash
-sort | uniq
+cat filee_name sort | uniq
