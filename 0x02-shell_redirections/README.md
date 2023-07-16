@@ -1,1 +1,1 @@
-A read me file for 'Shell redirections'
+This directory contains the 'Shell redirections' project
