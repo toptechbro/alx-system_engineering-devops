@@ -1,1 +1,1 @@
-cat iacta | tail -1 > iacta
+echo tail -1 iacta >> iacta
