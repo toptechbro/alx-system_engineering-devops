@@ -1,0 +1,6 @@
+#! /bin/bash
+
+echo "Enter your name:"
+read first_name middle_name last_name
+echo -e "Your computer should beep now\a"
+echo "Your name is $first_name"
